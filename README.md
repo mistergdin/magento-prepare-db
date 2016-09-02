@@ -8,5 +8,4 @@ Sets base_urls and creates admin user admin with password changeme1. Turns off C
 Usage
 -----
 
-.. code-block:: php
-    php setup.php database base_url
+`php setup.php database base_url`
